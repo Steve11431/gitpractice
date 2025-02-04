@@ -13,5 +13,5 @@ def generate_password(length=12, use_digits=True, use_specials=True):
 
 # Example usage
 password = generate_password(16)
-print("Generated Password:", password)
+print("I changed here windows:", password)
 
